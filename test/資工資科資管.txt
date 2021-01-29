@@ -1,0 +1,4 @@
+資工、資科、資管的差別
+資工 -> 資訊工程 -> (Computer Engineering)
+資科 -> 資訊科學 -> (Computer Science)
+資管 -> 資訊管理 -> (Information Management)
